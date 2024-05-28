@@ -142,7 +142,7 @@
 141,2020,63,0,6,1,Right,1,Upper inner,1,Malignant
 142,2020,26,1,5,0,Right,0,Upper outer,0,Benign
 143,2020,14,0,1,0,Right,0,Upper inner,0,Benign
-144,2020,29,1,2,0,#,0,Lower inner,1,Benign
+144,2020,29,1,2,0,,0,Lower inner,1,Benign
 145,2020,22,1,1,0,Right,0,Lower outer,0,Benign
 146,2020,37,1,2,0,Left,0,Lower outer,1,Benign
 147,2020,41,1,8,1,Left,1,Upper outer,1,Malignant
@@ -163,7 +163,7 @@
 162,2020,31,1,1,0,Left,0,Lower inner,0,Benign
 163,2020,33,1,4,0,Right,0,Upper inner,0,Benign
 164,2020,38,1,5,1,Right,1,Upper outer,1,Malignant
-165,2020,38,1,2,0,#,0,Upper outer,1,Benign
+165,2020,38,1,2,0,,0,Upper outer,1,Benign
 166,2020,57,0,4,1,Left,1,Upper outer,1,Malignant
 167,2020,62,0,3,1,,1,Upper inner,1,Malignant
 168,2020,55,0,2,0,Right,0,Lower outer,0,Benign
