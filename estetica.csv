@@ -1,0 +1,1001 @@
+idCita,servicio,precio,duracion,dia,mes,hora,citas_totales,citas_canceladas,estado_de_la_cita
+1,Tratamiento de sarna,400.0,180,jueves,enero,12:00,3,0,si
+2,Corte de pelo,100.0,50,lunes,octubre,15:00,6,0,si
+3,Limpieza dental,320.0,130,miercoles,junio,13:00,7,0,si
+4,Limpieza dental,320.0,130,viernes,septiembre,15:00,2,2,no
+5,Limpieza dental,320.0,130,martes,febrero,11:00,6,2,no
+6,Baño,250.0,120,jueves,enero,13:00,9,2,si
+7,Limpieza dental,320.0,130,jueves,octubre,09:00,5,1,si
+8,Corte de uñas,150.0,90,jueves,diciembre,10:00,7,3,no
+9,Tratamiento de sarna,400.0,180,miercoles,junio,16:00,6,4,si
+10,Corte de pelo,100.0,50,viernes,diciembre,13:00,7,1,no
+11,Corte de pelo,100.0,50,jueves,diciembre,09:00,1,1,si
+12,Tratamiento de sarna,400.0,180,viernes,octubre,16:00,3,3,si
+13,Corte de uñas,150.0,90,martes,diciembre,14:00,6,1,no
+14,Baño,250.0,120,lunes,noviembre,15:00,7,1,si
+15,Corte de pelo,100.0,50,lunes,marzo,12:00,3,3,no
+16,Baño,250.0,120,martes,febrero,14:00,2,0,si
+17,Baño,250.0,120,lunes,diciembre,11:00,5,2,si
+18,Corte de pelo,100.0,50,jueves,noviembre,16:00,9,2,no
+19,Baño,250.0,120,miercoles,abril,10:00,9,0,si
+20,Tratamiento de sarna,400.0,180,lunes,enero,13:00,4,4,no
+21,Limpieza dental,320.0,130,martes,diciembre,09:00,8,4,no
+22,Corte de pelo,100.0,50,miercoles,julio,15:00,3,3,no
+23,Limpieza dental,320.0,130,martes,enero,13:00,2,0,si
+24,Corte de pelo,100.0,50,jueves,agosto,11:00,2,2,no
+25,Corte de uñas,150.0,90,martes,octubre,10:00,2,2,no
+26,Limpieza dental,320.0,130,jueves,abril,13:00,7,1,si
+27,Corte de pelo,100.0,50,lunes,diciembre,11:00,4,2,si
+28,Baño,250.0,120,miercoles,septiembre,16:00,7,0,si
+29,Limpieza dental,320.0,130,viernes,mayo,10:00,6,3,si
+30,Limpieza dental,320.0,130,miercoles,mayo,13:00,5,2,si
+31,Limpieza dental,320.0,130,viernes,junio,09:00,3,3,no
+32,Corte de pelo,100.0,50,lunes,febrero,11:00,8,0,si
+33,Baño,250.0,120,martes,julio,16:00,9,2,si
+34,Baño,250.0,120,jueves,septiembre,09:00,9,3,si
+35,Baño,250.0,120,jueves,julio,11:00,1,1,no
+36,Corte de pelo,100.0,50,jueves,noviembre,09:00,8,1,no
+37,Corte de uñas,150.0,90,lunes,febrero,14:00,9,1,si
+38,Tratamiento de sarna,400.0,180,lunes,mayo,09:00,9,1,no
+39,Limpieza dental,320.0,130,viernes,mayo,15:00,8,3,si
+40,Limpieza dental,320.0,130,miercoles,diciembre,15:00,5,0,no
+41,Corte de uñas,150.0,90,miercoles,octubre,15:00,7,2,no
+42,Tratamiento de sarna,400.0,180,martes,septiembre,16:00,7,3,si
+43,Corte de uñas,150.0,90,viernes,julio,16:00,9,2,no
+44,Corte de pelo,100.0,50,lunes,marzo,14:00,4,3,no
+45,Corte de pelo,100.0,50,lunes,abril,13:00,8,4,no
+46,Tratamiento de sarna,400.0,180,jueves,septiembre,16:00,9,3,si
+47,Corte de pelo,100.0,50,viernes,enero,13:00,5,1,si
+48,Tratamiento de sarna,400.0,180,viernes,junio,09:00,3,0,si
+49,Baño,250.0,120,lunes,septiembre,15:00,4,2,no
+50,Tratamiento de sarna,400.0,180,viernes,agosto,11:00,1,1,no
+51,Baño,250.0,120,jueves,junio,13:00,5,1,no
+52,Corte de uñas,150.0,90,jueves,julio,15:00,9,4,no
+53,Corte de uñas,150.0,90,lunes,junio,13:00,1,1,si
+54,Corte de pelo,100.0,50,lunes,agosto,09:00,5,3,si
+55,Baño,250.0,120,viernes,diciembre,11:00,3,0,no
+56,Baño,250.0,120,viernes,noviembre,16:00,7,1,si
+57,Baño,250.0,120,miercoles,mayo,09:00,3,0,no
+58,Baño,250.0,120,viernes,diciembre,12:00,3,2,si
+59,Limpieza dental,320.0,130,viernes,diciembre,16:00,3,3,si
+60,Limpieza dental,320.0,130,martes,marzo,15:00,8,0,si
+61,Corte de uñas,150.0,90,lunes,julio,16:00,7,4,si
+62,Limpieza dental,320.0,130,viernes,julio,16:00,7,0,no
+63,Corte de pelo,100.0,50,martes,septiembre,16:00,1,1,si
+64,Limpieza dental,320.0,130,viernes,febrero,16:00,3,3,si
+65,Tratamiento de sarna,400.0,180,lunes,enero,09:00,2,0,no
+66,Baño,250.0,120,miercoles,junio,15:00,5,0,no
+67,Corte de uñas,150.0,90,jueves,enero,11:00,7,2,no
+68,Tratamiento de sarna,400.0,180,lunes,noviembre,15:00,4,4,no
+69,Limpieza dental,320.0,130,lunes,febrero,13:00,9,0,si
+70,Tratamiento de sarna,400.0,180,martes,mayo,13:00,8,1,si
+71,Tratamiento de sarna,400.0,180,martes,noviembre,10:00,6,2,si
+72,Tratamiento de sarna,400.0,180,martes,febrero,09:00,1,0,no
+73,Limpieza dental,320.0,130,miercoles,octubre,13:00,3,2,si
+74,Tratamiento de sarna,400.0,180,martes,enero,12:00,2,2,si
+75,Tratamiento de sarna,400.0,180,lunes,abril,13:00,1,0,si
+76,Tratamiento de sarna,400.0,180,martes,octubre,14:00,6,1,no
+77,Corte de pelo,100.0,50,viernes,abril,14:00,8,3,no
+78,Tratamiento de sarna,400.0,180,viernes,diciembre,12:00,4,2,si
+79,Limpieza dental,320.0,130,jueves,enero,13:00,5,4,si
+80,Corte de uñas,150.0,90,viernes,septiembre,13:00,5,4,si
+81,Corte de pelo,100.0,50,jueves,marzo,11:00,8,2,si
+82,Baño,250.0,120,viernes,junio,13:00,2,2,si
+83,Baño,250.0,120,miercoles,mayo,12:00,8,4,no
+84,Limpieza dental,320.0,130,jueves,marzo,11:00,8,1,no
+85,Corte de pelo,100.0,50,viernes,mayo,13:00,9,3,no
+86,Corte de pelo,100.0,50,jueves,marzo,11:00,6,0,no
+87,Baño,250.0,120,jueves,enero,14:00,7,3,no
+88,Corte de uñas,150.0,90,viernes,febrero,16:00,2,2,si
+89,Tratamiento de sarna,400.0,180,lunes,junio,14:00,1,1,si
+90,Corte de uñas,150.0,90,martes,diciembre,13:00,1,1,si
+91,Corte de pelo,100.0,50,jueves,junio,10:00,1,1,no
+92,Limpieza dental,320.0,130,jueves,septiembre,14:00,3,1,no
+93,Corte de uñas,150.0,90,jueves,enero,11:00,4,1,si
+94,Corte de uñas,150.0,90,martes,enero,16:00,2,2,si
+95,Corte de pelo,100.0,50,jueves,noviembre,12:00,7,0,no
+96,Baño,250.0,120,jueves,junio,10:00,5,3,si
+97,Corte de pelo,100.0,50,viernes,agosto,13:00,1,1,no
+98,Corte de uñas,150.0,90,lunes,abril,13:00,9,1,no
+99,Corte de uñas,150.0,90,miercoles,julio,10:00,9,0,no
+100,Limpieza dental,320.0,130,miercoles,enero,09:00,7,0,si
+101,Corte de uñas,150.0,90,martes,marzo,10:00,5,2,no
+102,Limpieza dental,320.0,130,miercoles,enero,12:00,6,2,no
+103,Corte de uñas,150.0,90,lunes,noviembre,13:00,6,1,no
+104,Baño,250.0,120,miercoles,junio,11:00,8,2,no
+105,Corte de uñas,150.0,90,lunes,febrero,14:00,8,0,no
+106,Limpieza dental,320.0,130,lunes,agosto,09:00,4,2,si
+107,Limpieza dental,320.0,130,viernes,noviembre,11:00,6,2,si
+108,Limpieza dental,320.0,130,miercoles,abril,16:00,6,1,si
+109,Corte de uñas,150.0,90,jueves,marzo,10:00,5,3,si
+110,Limpieza dental,320.0,130,martes,abril,13:00,1,1,si
+111,Tratamiento de sarna,400.0,180,jueves,marzo,12:00,6,4,si
+112,Baño,250.0,120,miercoles,abril,10:00,7,4,si
+113,Corte de uñas,150.0,90,miercoles,agosto,15:00,8,1,no
+114,Limpieza dental,320.0,130,jueves,agosto,10:00,1,1,no
+115,Baño,250.0,120,viernes,febrero,16:00,9,3,si
+116,Corte de uñas,150.0,90,miercoles,mayo,11:00,1,1,si
+117,Baño,250.0,120,viernes,julio,11:00,8,0,no
+118,Tratamiento de sarna,400.0,180,martes,noviembre,16:00,9,1,no
+119,Corte de uñas,150.0,90,miercoles,agosto,13:00,9,2,no
+120,Limpieza dental,320.0,130,jueves,enero,15:00,5,1,no
+121,Corte de pelo,100.0,50,viernes,enero,11:00,1,1,no
+122,Limpieza dental,320.0,130,martes,julio,09:00,4,0,no
+123,Corte de uñas,150.0,90,lunes,mayo,15:00,7,4,si
+124,Limpieza dental,320.0,130,martes,mayo,13:00,9,0,no
+125,Corte de pelo,100.0,50,viernes,noviembre,16:00,4,0,si
+126,Corte de pelo,100.0,50,miercoles,diciembre,12:00,5,2,si
+127,Corte de pelo,100.0,50,miercoles,junio,09:00,5,0,si
+128,Limpieza dental,320.0,130,lunes,febrero,15:00,5,1,no
+129,Corte de uñas,150.0,90,viernes,noviembre,10:00,2,2,si
+130,Limpieza dental,320.0,130,miercoles,marzo,15:00,4,0,no
+131,Corte de pelo,100.0,50,miercoles,julio,14:00,9,0,si
+132,Tratamiento de sarna,400.0,180,viernes,septiembre,11:00,9,1,si
+133,Corte de pelo,100.0,50,martes,marzo,12:00,4,0,si
+134,Corte de pelo,100.0,50,jueves,noviembre,13:00,3,3,si
+135,Corte de uñas,150.0,90,martes,octubre,11:00,2,0,no
+136,Limpieza dental,320.0,130,viernes,diciembre,09:00,5,0,no
+137,Corte de uñas,150.0,90,martes,octubre,10:00,8,0,si
+138,Limpieza dental,320.0,130,miercoles,junio,15:00,7,4,si
+139,Corte de pelo,100.0,50,viernes,junio,10:00,9,4,no
+140,Corte de pelo,100.0,50,miercoles,diciembre,11:00,1,1,si
+141,Corte de pelo,100.0,50,miercoles,septiembre,13:00,2,2,no
+142,Limpieza dental,320.0,130,miercoles,junio,13:00,2,0,no
+143,Corte de pelo,100.0,50,martes,octubre,11:00,4,1,no
+144,Corte de uñas,150.0,90,jueves,febrero,14:00,8,3,si
+145,Corte de uñas,150.0,90,lunes,octubre,15:00,9,3,si
+146,Corte de pelo,100.0,50,jueves,mayo,11:00,5,0,no
+147,Tratamiento de sarna,400.0,180,lunes,julio,11:00,7,2,no
+148,Limpieza dental,320.0,130,viernes,octubre,14:00,3,3,no
+149,Tratamiento de sarna,400.0,180,jueves,noviembre,12:00,7,4,no
+150,Corte de pelo,100.0,50,lunes,septiembre,11:00,1,1,si
+151,Tratamiento de sarna,400.0,180,miercoles,noviembre,12:00,1,1,si
+152,Limpieza dental,320.0,130,viernes,enero,09:00,3,2,no
+153,Limpieza dental,320.0,130,jueves,junio,11:00,1,1,no
+154,Tratamiento de sarna,400.0,180,martes,julio,11:00,6,2,si
+155,Baño,250.0,120,viernes,enero,13:00,1,1,si
+156,Limpieza dental,320.0,130,miercoles,julio,16:00,5,4,no
+157,Corte de pelo,100.0,50,miercoles,enero,11:00,8,1,si
+158,Corte de pelo,100.0,50,miercoles,julio,14:00,8,1,no
+159,Corte de pelo,100.0,50,lunes,agosto,12:00,2,2,no
+160,Baño,250.0,120,jueves,febrero,16:00,9,4,si
+161,Corte de pelo,100.0,50,viernes,febrero,15:00,7,0,si
+162,Tratamiento de sarna,400.0,180,jueves,junio,14:00,6,1,no
+163,Baño,250.0,120,jueves,enero,12:00,2,2,si
+164,Limpieza dental,320.0,130,lunes,julio,11:00,6,0,no
+165,Baño,250.0,120,lunes,mayo,12:00,5,1,si
+166,Corte de pelo,100.0,50,miercoles,noviembre,15:00,3,3,no
+167,Corte de pelo,100.0,50,jueves,mayo,11:00,7,1,no
+168,Tratamiento de sarna,400.0,180,lunes,mayo,14:00,2,2,si
+169,Limpieza dental,320.0,130,miercoles,agosto,09:00,2,2,si
+170,Limpieza dental,320.0,130,viernes,marzo,16:00,8,2,no
+171,Baño,250.0,120,lunes,febrero,12:00,6,2,no
+172,Corte de pelo,100.0,50,lunes,diciembre,12:00,5,0,si
+173,Corte de pelo,100.0,50,viernes,mayo,12:00,2,2,si
+174,Baño,250.0,120,viernes,octubre,16:00,6,0,no
+175,Corte de uñas,150.0,90,lunes,septiembre,12:00,8,2,si
+176,Corte de pelo,100.0,50,viernes,mayo,11:00,9,4,si
+177,Limpieza dental,320.0,130,viernes,mayo,11:00,3,3,si
+178,Baño,250.0,120,miercoles,agosto,15:00,5,1,no
+179,Baño,250.0,120,lunes,enero,09:00,8,1,no
+180,Tratamiento de sarna,400.0,180,viernes,agosto,16:00,3,3,si
+181,Corte de pelo,100.0,50,miercoles,diciembre,11:00,9,2,no
+182,Corte de pelo,100.0,50,lunes,diciembre,14:00,3,0,si
+183,Limpieza dental,320.0,130,lunes,noviembre,16:00,2,2,no
+184,Corte de uñas,150.0,90,lunes,septiembre,12:00,9,4,si
+185,Limpieza dental,320.0,130,viernes,octubre,09:00,8,2,si
+186,Corte de uñas,150.0,90,viernes,octubre,10:00,2,0,si
+187,Tratamiento de sarna,400.0,180,jueves,diciembre,14:00,4,0,si
+188,Limpieza dental,320.0,130,miercoles,noviembre,13:00,6,3,no
+189,Limpieza dental,320.0,130,jueves,junio,09:00,9,3,no
+190,Corte de pelo,100.0,50,miercoles,marzo,15:00,2,2,no
+191,Limpieza dental,320.0,130,martes,julio,13:00,4,2,no
+192,Corte de pelo,100.0,50,jueves,octubre,12:00,2,1,si
+193,Tratamiento de sarna,400.0,180,lunes,junio,10:00,3,2,si
+194,Corte de uñas,150.0,90,martes,julio,15:00,8,0,si
+195,Limpieza dental,320.0,130,martes,noviembre,13:00,6,3,si
+196,Tratamiento de sarna,400.0,180,martes,junio,14:00,9,4,no
+197,Corte de pelo,100.0,50,miercoles,abril,09:00,6,1,no
+198,Corte de uñas,150.0,90,viernes,diciembre,11:00,4,2,si
+199,Limpieza dental,320.0,130,viernes,noviembre,16:00,3,1,no
+200,Limpieza dental,320.0,130,martes,diciembre,14:00,6,4,no
+201,Baño,250.0,120,viernes,abril,13:00,5,3,no
+202,Limpieza dental,320.0,130,lunes,noviembre,11:00,9,3,no
+203,Tratamiento de sarna,400.0,180,viernes,diciembre,16:00,2,0,si
+204,Limpieza dental,320.0,130,miercoles,enero,13:00,1,1,si
+205,Limpieza dental,320.0,130,martes,abril,16:00,9,0,si
+206,Baño,250.0,120,jueves,mayo,12:00,9,1,si
+207,Baño,250.0,120,lunes,febrero,11:00,5,4,no
+208,Baño,250.0,120,jueves,enero,10:00,1,1,si
+209,Limpieza dental,320.0,130,martes,noviembre,14:00,5,0,si
+210,Corte de uñas,150.0,90,martes,octubre,09:00,3,0,si
+211,Corte de uñas,150.0,90,jueves,octubre,10:00,8,1,si
+212,Tratamiento de sarna,400.0,180,martes,abril,13:00,5,3,no
+213,Limpieza dental,320.0,130,martes,octubre,13:00,5,4,no
+214,Baño,250.0,120,martes,noviembre,10:00,6,0,no
+215,Corte de uñas,150.0,90,viernes,abril,13:00,7,4,no
+216,Limpieza dental,320.0,130,viernes,diciembre,12:00,4,3,no
+217,Baño,250.0,120,miercoles,mayo,09:00,8,4,si
+218,Tratamiento de sarna,400.0,180,jueves,julio,14:00,1,1,no
+219,Corte de uñas,150.0,90,lunes,junio,12:00,5,3,no
+220,Corte de uñas,150.0,90,jueves,agosto,11:00,5,2,no
+221,Corte de pelo,100.0,50,jueves,febrero,09:00,6,1,no
+222,Baño,250.0,120,miercoles,junio,09:00,9,4,si
+223,Corte de pelo,100.0,50,viernes,agosto,13:00,6,3,si
+224,Tratamiento de sarna,400.0,180,lunes,julio,14:00,7,4,no
+225,Corte de pelo,100.0,50,lunes,diciembre,16:00,2,0,si
+226,Limpieza dental,320.0,130,miercoles,diciembre,11:00,5,1,si
+227,Corte de uñas,150.0,90,martes,julio,14:00,6,1,no
+228,Corte de pelo,100.0,50,jueves,diciembre,10:00,4,0,no
+229,Corte de pelo,100.0,50,jueves,julio,14:00,7,0,si
+230,Baño,250.0,120,lunes,febrero,11:00,9,4,si
+231,Baño,250.0,120,jueves,septiembre,10:00,8,2,si
+232,Corte de pelo,100.0,50,lunes,mayo,14:00,5,4,no
+233,Limpieza dental,320.0,130,viernes,marzo,14:00,8,4,no
+234,Corte de pelo,100.0,50,viernes,enero,11:00,9,3,si
+235,Limpieza dental,320.0,130,lunes,marzo,15:00,2,2,no
+236,Corte de pelo,100.0,50,miercoles,diciembre,11:00,5,1,si
+237,Tratamiento de sarna,400.0,180,jueves,septiembre,15:00,6,2,no
+238,Tratamiento de sarna,400.0,180,lunes,diciembre,10:00,6,0,no
+239,Corte de pelo,100.0,50,miercoles,abril,15:00,4,1,si
+240,Baño,250.0,120,viernes,agosto,12:00,9,0,si
+241,Limpieza dental,320.0,130,jueves,marzo,16:00,4,3,si
+242,Tratamiento de sarna,400.0,180,jueves,febrero,13:00,6,4,si
+243,Limpieza dental,320.0,130,viernes,mayo,14:00,4,3,si
+244,Corte de uñas,150.0,90,martes,mayo,13:00,5,0,si
+245,Baño,250.0,120,lunes,noviembre,15:00,7,4,si
+246,Baño,250.0,120,miercoles,mayo,13:00,2,2,no
+247,Corte de uñas,150.0,90,miercoles,marzo,10:00,8,3,no
+248,Baño,250.0,120,martes,mayo,14:00,7,0,no
+249,Tratamiento de sarna,400.0,180,miercoles,septiembre,16:00,6,2,si
+250,Corte de uñas,150.0,90,miercoles,agosto,14:00,3,3,si
+251,Tratamiento de sarna,400.0,180,jueves,noviembre,13:00,4,1,si
+252,Tratamiento de sarna,400.0,180,lunes,octubre,14:00,6,1,no
+253,Corte de uñas,150.0,90,jueves,septiembre,14:00,9,1,no
+254,Limpieza dental,320.0,130,viernes,octubre,09:00,4,0,si
+255,Limpieza dental,320.0,130,jueves,junio,11:00,2,1,si
+256,Baño,250.0,120,martes,diciembre,10:00,7,1,si
+257,Corte de uñas,150.0,90,lunes,octubre,15:00,8,4,si
+258,Tratamiento de sarna,400.0,180,martes,febrero,15:00,9,4,no
+259,Limpieza dental,320.0,130,lunes,septiembre,10:00,2,2,no
+260,Limpieza dental,320.0,130,lunes,diciembre,09:00,8,0,si
+261,Baño,250.0,120,lunes,septiembre,11:00,4,1,no
+262,Baño,250.0,120,miercoles,julio,16:00,8,3,no
+263,Baño,250.0,120,jueves,enero,13:00,5,1,si
+264,Baño,250.0,120,miercoles,enero,10:00,2,2,no
+265,Corte de uñas,150.0,90,miercoles,marzo,10:00,2,1,si
+266,Corte de pelo,100.0,50,jueves,abril,10:00,9,4,no
+267,Limpieza dental,320.0,130,martes,marzo,10:00,3,1,no
+268,Baño,250.0,120,lunes,febrero,10:00,1,0,si
+269,Tratamiento de sarna,400.0,180,martes,diciembre,16:00,9,2,si
+270,Limpieza dental,320.0,130,martes,octubre,10:00,6,2,no
+271,Baño,250.0,120,viernes,junio,09:00,6,1,no
+272,Baño,250.0,120,miercoles,julio,10:00,4,3,no
+273,Corte de uñas,150.0,90,lunes,febrero,12:00,1,1,no
+274,Corte de pelo,100.0,50,jueves,noviembre,11:00,2,1,no
+275,Corte de pelo,100.0,50,martes,diciembre,11:00,8,2,si
+276,Corte de uñas,150.0,90,viernes,septiembre,14:00,5,1,no
+277,Tratamiento de sarna,400.0,180,viernes,diciembre,16:00,5,1,si
+278,Corte de pelo,100.0,50,martes,agosto,13:00,5,4,si
+279,Tratamiento de sarna,400.0,180,martes,diciembre,14:00,5,1,no
+280,Limpieza dental,320.0,130,viernes,agosto,10:00,6,4,no
+281,Limpieza dental,320.0,130,miercoles,abril,14:00,7,0,si
+282,Corte de pelo,100.0,50,viernes,mayo,10:00,9,3,si
+283,Corte de pelo,100.0,50,viernes,octubre,09:00,5,1,no
+284,Limpieza dental,320.0,130,viernes,julio,12:00,5,4,si
+285,Limpieza dental,320.0,130,miercoles,octubre,16:00,8,4,no
+286,Corte de pelo,100.0,50,miercoles,julio,15:00,8,1,si
+287,Limpieza dental,320.0,130,miercoles,mayo,11:00,5,2,no
+288,Corte de pelo,100.0,50,jueves,diciembre,15:00,6,2,no
+289,Corte de uñas,150.0,90,jueves,febrero,15:00,8,1,si
+290,Baño,250.0,120,jueves,marzo,11:00,5,1,no
+291,Corte de pelo,100.0,50,jueves,enero,15:00,6,2,no
+292,Tratamiento de sarna,400.0,180,lunes,enero,13:00,2,1,si
+293,Corte de pelo,100.0,50,lunes,noviembre,10:00,5,1,no
+294,Limpieza dental,320.0,130,lunes,agosto,09:00,1,1,si
+295,Tratamiento de sarna,400.0,180,martes,julio,13:00,2,2,no
+296,Tratamiento de sarna,400.0,180,lunes,marzo,13:00,4,0,no
+297,Baño,250.0,120,martes,noviembre,16:00,3,1,no
+298,Corte de pelo,100.0,50,viernes,diciembre,13:00,1,1,no
+299,Corte de uñas,150.0,90,lunes,octubre,16:00,8,1,no
+300,Tratamiento de sarna,400.0,180,miercoles,noviembre,09:00,3,1,si
+301,Tratamiento de sarna,400.0,180,jueves,septiembre,09:00,1,1,no
+302,Corte de uñas,150.0,90,martes,septiembre,16:00,2,0,si
+303,Tratamiento de sarna,400.0,180,viernes,marzo,10:00,9,1,si
+304,Limpieza dental,320.0,130,lunes,febrero,09:00,2,0,si
+305,Corte de uñas,150.0,90,jueves,noviembre,13:00,2,2,si
+306,Limpieza dental,320.0,130,miercoles,marzo,15:00,6,2,si
+307,Corte de pelo,100.0,50,viernes,diciembre,15:00,7,3,no
+308,Corte de pelo,100.0,50,miercoles,agosto,10:00,7,4,no
+309,Corte de pelo,100.0,50,lunes,julio,16:00,9,2,si
+310,Limpieza dental,320.0,130,martes,julio,13:00,2,1,si
+311,Tratamiento de sarna,400.0,180,viernes,marzo,15:00,6,1,no
+312,Tratamiento de sarna,400.0,180,lunes,diciembre,13:00,6,2,no
+313,Corte de uñas,150.0,90,lunes,febrero,11:00,7,3,no
+314,Corte de uñas,150.0,90,martes,junio,16:00,1,1,si
+315,Tratamiento de sarna,400.0,180,martes,julio,16:00,4,3,no
+316,Baño,250.0,120,lunes,octubre,15:00,8,0,si
+317,Limpieza dental,320.0,130,martes,octubre,15:00,3,3,si
+318,Limpieza dental,320.0,130,viernes,abril,15:00,1,1,no
+319,Limpieza dental,320.0,130,martes,octubre,09:00,8,1,no
+320,Baño,250.0,120,viernes,diciembre,16:00,8,4,si
+321,Corte de uñas,150.0,90,lunes,mayo,14:00,7,4,no
+322,Corte de uñas,150.0,90,jueves,diciembre,11:00,8,1,si
+323,Limpieza dental,320.0,130,lunes,marzo,11:00,1,1,no
+324,Corte de uñas,150.0,90,lunes,febrero,14:00,7,3,no
+325,Limpieza dental,320.0,130,lunes,julio,13:00,1,1,no
+326,Tratamiento de sarna,400.0,180,viernes,enero,15:00,3,2,no
+327,Tratamiento de sarna,400.0,180,jueves,marzo,14:00,7,4,no
+328,Corte de uñas,150.0,90,martes,julio,09:00,9,4,no
+329,Baño,250.0,120,miercoles,abril,13:00,9,0,no
+330,Corte de uñas,150.0,90,viernes,agosto,16:00,7,0,si
+331,Corte de pelo,100.0,50,lunes,junio,12:00,4,3,no
+332,Limpieza dental,320.0,130,lunes,noviembre,13:00,3,0,si
+333,Corte de pelo,100.0,50,miercoles,noviembre,13:00,4,3,no
+334,Corte de uñas,150.0,90,martes,marzo,09:00,2,0,no
+335,Tratamiento de sarna,400.0,180,jueves,julio,15:00,5,0,si
+336,Limpieza dental,320.0,130,lunes,julio,15:00,1,1,si
+337,Corte de uñas,150.0,90,miercoles,noviembre,13:00,9,3,no
+338,Baño,250.0,120,lunes,diciembre,14:00,3,3,si
+339,Corte de uñas,150.0,90,miercoles,febrero,13:00,7,0,si
+340,Baño,250.0,120,martes,octubre,11:00,8,3,si
+341,Tratamiento de sarna,400.0,180,miercoles,noviembre,14:00,8,4,si
+342,Baño,250.0,120,lunes,enero,15:00,9,0,no
+343,Corte de pelo,100.0,50,viernes,febrero,15:00,1,1,no
+344,Corte de pelo,100.0,50,martes,abril,14:00,3,3,no
+345,Corte de pelo,100.0,50,miercoles,abril,13:00,2,0,no
+346,Corte de pelo,100.0,50,viernes,febrero,09:00,7,0,no
+347,Corte de pelo,100.0,50,jueves,diciembre,11:00,4,4,si
+348,Baño,250.0,120,jueves,abril,14:00,7,3,si
+349,Corte de pelo,100.0,50,miercoles,mayo,10:00,8,1,no
+350,Limpieza dental,320.0,130,martes,abril,15:00,5,0,no
+351,Baño,250.0,120,lunes,octubre,14:00,1,1,no
+352,Tratamiento de sarna,400.0,180,jueves,octubre,15:00,9,2,si
+353,Baño,250.0,120,viernes,junio,10:00,3,3,no
+354,Corte de uñas,150.0,90,viernes,julio,13:00,4,3,si
+355,Tratamiento de sarna,400.0,180,viernes,septiembre,11:00,3,3,si
+356,Corte de pelo,100.0,50,jueves,noviembre,12:00,9,3,si
+357,Corte de pelo,100.0,50,miercoles,octubre,14:00,1,1,si
+358,Corte de uñas,150.0,90,jueves,diciembre,10:00,7,1,si
+359,Corte de pelo,100.0,50,martes,junio,16:00,7,2,no
+360,Tratamiento de sarna,400.0,180,martes,junio,14:00,6,0,si
+361,Tratamiento de sarna,400.0,180,miercoles,septiembre,11:00,8,1,no
+362,Tratamiento de sarna,400.0,180,viernes,mayo,14:00,4,1,si
+363,Baño,250.0,120,jueves,junio,10:00,7,1,no
+364,Baño,250.0,120,miercoles,enero,14:00,9,1,si
+365,Tratamiento de sarna,400.0,180,lunes,abril,16:00,6,2,si
+366,Baño,250.0,120,martes,febrero,11:00,3,3,si
+367,Baño,250.0,120,lunes,julio,15:00,9,4,si
+368,Limpieza dental,320.0,130,lunes,septiembre,16:00,2,2,si
+369,Baño,250.0,120,jueves,julio,16:00,5,3,si
+370,Limpieza dental,320.0,130,miercoles,abril,13:00,1,0,si
+371,Limpieza dental,320.0,130,lunes,mayo,15:00,5,2,no
+372,Baño,250.0,120,lunes,junio,11:00,8,2,no
+373,Baño,250.0,120,viernes,septiembre,11:00,1,1,no
+374,Baño,250.0,120,viernes,diciembre,09:00,2,2,si
+375,Corte de pelo,100.0,50,lunes,marzo,13:00,5,1,no
+376,Limpieza dental,320.0,130,jueves,octubre,14:00,1,1,si
+377,Corte de pelo,100.0,50,lunes,abril,16:00,1,1,no
+378,Tratamiento de sarna,400.0,180,martes,marzo,12:00,1,1,si
+379,Baño,250.0,120,miercoles,octubre,15:00,4,4,si
+380,Tratamiento de sarna,400.0,180,jueves,febrero,14:00,9,2,si
+381,Corte de pelo,100.0,50,viernes,febrero,14:00,7,1,no
+382,Limpieza dental,320.0,130,miercoles,noviembre,10:00,3,2,si
+383,Corte de uñas,150.0,90,martes,septiembre,11:00,1,1,si
+384,Baño,250.0,120,jueves,noviembre,11:00,7,3,si
+385,Tratamiento de sarna,400.0,180,jueves,julio,13:00,6,4,no
+386,Tratamiento de sarna,400.0,180,jueves,noviembre,16:00,7,0,no
+387,Tratamiento de sarna,400.0,180,viernes,abril,09:00,2,0,no
+388,Corte de pelo,100.0,50,miercoles,diciembre,14:00,5,3,si
+389,Corte de pelo,100.0,50,martes,marzo,10:00,5,2,si
+390,Corte de uñas,150.0,90,lunes,marzo,12:00,3,1,si
+391,Corte de pelo,100.0,50,lunes,mayo,11:00,3,0,si
+392,Limpieza dental,320.0,130,lunes,noviembre,09:00,5,0,si
+393,Limpieza dental,320.0,130,miercoles,agosto,16:00,4,2,no
+394,Tratamiento de sarna,400.0,180,jueves,marzo,10:00,4,3,si
+395,Baño,250.0,120,martes,mayo,10:00,7,4,si
+396,Tratamiento de sarna,400.0,180,viernes,mayo,12:00,1,1,no
+397,Limpieza dental,320.0,130,jueves,octubre,13:00,9,3,no
+398,Limpieza dental,320.0,130,viernes,diciembre,15:00,6,1,si
+399,Limpieza dental,320.0,130,jueves,febrero,14:00,6,3,si
+400,Tratamiento de sarna,400.0,180,lunes,junio,15:00,3,3,si
+401,Corte de uñas,150.0,90,jueves,abril,10:00,1,1,no
+402,Baño,250.0,120,lunes,agosto,15:00,5,3,no
+403,Corte de uñas,150.0,90,lunes,mayo,10:00,1,1,no
+404,Corte de uñas,150.0,90,martes,noviembre,14:00,6,4,no
+405,Baño,250.0,120,martes,marzo,12:00,3,3,si
+406,Limpieza dental,320.0,130,viernes,diciembre,14:00,4,0,no
+407,Limpieza dental,320.0,130,viernes,enero,11:00,3,0,no
+408,Tratamiento de sarna,400.0,180,miercoles,diciembre,13:00,9,1,si
+409,Tratamiento de sarna,400.0,180,miercoles,octubre,16:00,1,1,no
+410,Corte de uñas,150.0,90,viernes,marzo,15:00,7,4,no
+411,Baño,250.0,120,martes,marzo,12:00,1,1,si
+412,Baño,250.0,120,lunes,octubre,11:00,2,0,si
+413,Corte de pelo,100.0,50,miercoles,julio,12:00,4,1,si
+414,Corte de pelo,100.0,50,martes,septiembre,15:00,6,4,no
+415,Corte de uñas,150.0,90,lunes,octubre,14:00,2,2,no
+416,Tratamiento de sarna,400.0,180,miercoles,febrero,16:00,3,2,no
+417,Limpieza dental,320.0,130,martes,febrero,14:00,1,1,si
+418,Limpieza dental,320.0,130,viernes,febrero,12:00,6,0,no
+419,Corte de uñas,150.0,90,martes,enero,16:00,7,3,si
+420,Baño,250.0,120,miercoles,febrero,15:00,2,0,si
+421,Corte de pelo,100.0,50,lunes,agosto,15:00,3,2,no
+422,Tratamiento de sarna,400.0,180,miercoles,enero,14:00,7,3,no
+423,Baño,250.0,120,jueves,julio,12:00,7,2,no
+424,Tratamiento de sarna,400.0,180,viernes,diciembre,09:00,8,0,si
+425,Tratamiento de sarna,400.0,180,jueves,junio,14:00,1,0,no
+426,Corte de uñas,150.0,90,miercoles,octubre,16:00,6,0,no
+427,Corte de pelo,100.0,50,miercoles,septiembre,12:00,5,4,si
+428,Corte de pelo,100.0,50,martes,junio,16:00,8,0,si
+429,Limpieza dental,320.0,130,martes,julio,14:00,5,1,si
+430,Baño,250.0,120,jueves,septiembre,11:00,7,3,no
+431,Baño,250.0,120,martes,febrero,16:00,7,4,si
+432,Corte de pelo,100.0,50,martes,mayo,11:00,9,2,no
+433,Tratamiento de sarna,400.0,180,jueves,junio,10:00,7,2,si
+434,Limpieza dental,320.0,130,martes,octubre,15:00,1,1,si
+435,Limpieza dental,320.0,130,jueves,enero,14:00,3,3,si
+436,Tratamiento de sarna,400.0,180,lunes,junio,09:00,1,1,no
+437,Limpieza dental,320.0,130,jueves,julio,11:00,1,1,si
+438,Tratamiento de sarna,400.0,180,martes,octubre,09:00,9,2,no
+439,Limpieza dental,320.0,130,viernes,febrero,10:00,5,1,no
+440,Corte de pelo,100.0,50,viernes,febrero,09:00,1,1,no
+441,Limpieza dental,320.0,130,jueves,abril,11:00,2,2,si
+442,Limpieza dental,320.0,130,viernes,febrero,13:00,1,1,no
+443,Baño,250.0,120,viernes,noviembre,15:00,9,1,si
+444,Limpieza dental,320.0,130,martes,julio,09:00,6,4,si
+445,Tratamiento de sarna,400.0,180,lunes,noviembre,15:00,3,3,no
+446,Corte de pelo,100.0,50,lunes,enero,14:00,9,3,si
+447,Limpieza dental,320.0,130,martes,agosto,09:00,1,1,no
+448,Corte de pelo,100.0,50,lunes,diciembre,13:00,6,1,no
+449,Corte de pelo,100.0,50,jueves,julio,12:00,1,1,si
+450,Limpieza dental,320.0,130,lunes,diciembre,13:00,9,3,si
+451,Baño,250.0,120,viernes,mayo,12:00,6,1,si
+452,Corte de uñas,150.0,90,martes,octubre,15:00,7,3,si
+453,Limpieza dental,320.0,130,miercoles,marzo,16:00,5,0,si
+454,Corte de uñas,150.0,90,viernes,abril,13:00,5,4,no
+455,Limpieza dental,320.0,130,viernes,noviembre,09:00,3,3,no
+456,Corte de pelo,100.0,50,jueves,julio,12:00,5,2,si
+457,Limpieza dental,320.0,130,miercoles,julio,15:00,1,1,no
+458,Corte de uñas,150.0,90,jueves,marzo,15:00,9,1,no
+459,Corte de pelo,100.0,50,martes,febrero,12:00,2,2,si
+460,Limpieza dental,320.0,130,miercoles,noviembre,13:00,8,4,no
+461,Baño,250.0,120,martes,agosto,09:00,5,1,no
+462,Tratamiento de sarna,400.0,180,lunes,septiembre,15:00,2,2,no
+463,Limpieza dental,320.0,130,viernes,septiembre,09:00,1,1,no
+464,Baño,250.0,120,lunes,diciembre,09:00,6,4,no
+465,Corte de uñas,150.0,90,martes,diciembre,12:00,2,1,no
+466,Baño,250.0,120,jueves,mayo,12:00,9,1,no
+467,Tratamiento de sarna,400.0,180,viernes,marzo,14:00,2,2,no
+468,Baño,250.0,120,viernes,diciembre,16:00,7,1,no
+469,Limpieza dental,320.0,130,miercoles,octubre,14:00,1,0,no
+470,Baño,250.0,120,lunes,diciembre,16:00,1,1,no
+471,Limpieza dental,320.0,130,martes,septiembre,12:00,3,2,no
+472,Corte de uñas,150.0,90,martes,noviembre,09:00,1,1,si
+473,Tratamiento de sarna,400.0,180,martes,enero,10:00,8,0,si
+474,Baño,250.0,120,martes,diciembre,10:00,3,2,si
+475,Tratamiento de sarna,400.0,180,jueves,abril,15:00,8,3,no
+476,Baño,250.0,120,martes,enero,12:00,6,1,no
+477,Tratamiento de sarna,400.0,180,jueves,junio,12:00,5,2,si
+478,Baño,250.0,120,jueves,agosto,09:00,1,1,no
+479,Corte de uñas,150.0,90,miercoles,agosto,09:00,8,1,no
+480,Corte de uñas,150.0,90,miercoles,mayo,10:00,9,3,si
+481,Limpieza dental,320.0,130,lunes,diciembre,10:00,2,1,no
+482,Baño,250.0,120,martes,septiembre,13:00,4,1,no
+483,Corte de uñas,150.0,90,jueves,marzo,15:00,3,1,no
+484,Corte de uñas,150.0,90,miercoles,diciembre,09:00,3,3,no
+485,Tratamiento de sarna,400.0,180,martes,octubre,11:00,6,1,no
+486,Corte de uñas,150.0,90,miercoles,junio,13:00,8,4,si
+487,Corte de uñas,150.0,90,miercoles,febrero,09:00,2,2,no
+488,Limpieza dental,320.0,130,lunes,agosto,11:00,6,0,no
+489,Corte de pelo,100.0,50,jueves,agosto,15:00,4,4,no
+490,Tratamiento de sarna,400.0,180,jueves,febrero,11:00,6,1,no
+491,Corte de uñas,150.0,90,miercoles,junio,12:00,7,4,no
+492,Corte de pelo,100.0,50,martes,enero,16:00,4,2,no
+493,Corte de pelo,100.0,50,jueves,agosto,15:00,7,3,no
+494,Corte de uñas,150.0,90,lunes,septiembre,12:00,8,1,si
+495,Limpieza dental,320.0,130,jueves,mayo,11:00,6,2,no
+496,Baño,250.0,120,lunes,junio,11:00,7,2,si
+497,Limpieza dental,320.0,130,martes,marzo,15:00,6,4,si
+498,Corte de uñas,150.0,90,miercoles,enero,14:00,8,2,si
+499,Tratamiento de sarna,400.0,180,martes,septiembre,13:00,6,1,si
+500,Baño,250.0,120,martes,julio,11:00,4,2,si
+501,Baño,250.0,120,lunes,diciembre,12:00,4,2,no
+502,Corte de uñas,150.0,90,martes,junio,12:00,5,4,no
+503,Corte de uñas,150.0,90,miercoles,abril,12:00,1,1,si
+504,Tratamiento de sarna,400.0,180,jueves,septiembre,10:00,2,0,no
+505,Limpieza dental,320.0,130,lunes,noviembre,13:00,4,3,si
+506,Tratamiento de sarna,400.0,180,lunes,octubre,16:00,4,0,si
+507,Corte de uñas,150.0,90,martes,enero,13:00,4,0,si
+508,Tratamiento de sarna,400.0,180,martes,noviembre,13:00,9,1,no
+509,Corte de uñas,150.0,90,martes,agosto,14:00,9,1,no
+510,Baño,250.0,120,viernes,marzo,10:00,4,2,si
+511,Tratamiento de sarna,400.0,180,miercoles,noviembre,13:00,9,3,si
+512,Corte de pelo,100.0,50,martes,septiembre,10:00,5,4,no
+513,Baño,250.0,120,viernes,agosto,10:00,1,1,si
+514,Corte de pelo,100.0,50,lunes,julio,11:00,7,1,si
+515,Corte de uñas,150.0,90,miercoles,enero,16:00,9,2,si
+516,Corte de pelo,100.0,50,viernes,junio,10:00,7,3,si
+517,Limpieza dental,320.0,130,lunes,marzo,09:00,4,4,no
+518,Corte de uñas,150.0,90,jueves,noviembre,09:00,9,3,si
+519,Corte de pelo,100.0,50,jueves,julio,14:00,3,3,no
+520,Corte de uñas,150.0,90,miercoles,septiembre,14:00,9,2,si
+521,Limpieza dental,320.0,130,viernes,mayo,13:00,9,0,no
+522,Corte de pelo,100.0,50,viernes,enero,16:00,9,1,si
+523,Corte de pelo,100.0,50,lunes,abril,09:00,3,0,no
+524,Baño,250.0,120,jueves,noviembre,14:00,6,0,si
+525,Corte de pelo,100.0,50,jueves,mayo,14:00,7,0,si
+526,Corte de pelo,100.0,50,martes,febrero,11:00,6,2,si
+527,Corte de uñas,150.0,90,viernes,septiembre,09:00,9,4,no
+528,Limpieza dental,320.0,130,miercoles,marzo,10:00,6,3,si
+529,Tratamiento de sarna,400.0,180,jueves,septiembre,16:00,9,0,no
+530,Limpieza dental,320.0,130,miercoles,octubre,14:00,3,3,si
+531,Limpieza dental,320.0,130,miercoles,septiembre,14:00,1,1,no
+532,Corte de pelo,100.0,50,martes,agosto,09:00,3,3,no
+533,Tratamiento de sarna,400.0,180,jueves,octubre,15:00,1,1,no
+534,Tratamiento de sarna,400.0,180,miercoles,abril,12:00,3,3,si
+535,Limpieza dental,320.0,130,jueves,julio,14:00,1,1,no
+536,Corte de uñas,150.0,90,martes,abril,11:00,9,1,si
+537,Tratamiento de sarna,400.0,180,lunes,agosto,13:00,1,1,no
+538,Tratamiento de sarna,400.0,180,lunes,agosto,16:00,5,2,si
+539,Limpieza dental,320.0,130,lunes,marzo,12:00,5,1,no
+540,Baño,250.0,120,miercoles,agosto,11:00,4,0,no
+541,Tratamiento de sarna,400.0,180,miercoles,diciembre,11:00,6,2,no
+542,Limpieza dental,320.0,130,miercoles,septiembre,11:00,3,1,no
+543,Baño,250.0,120,jueves,mayo,09:00,5,1,si
+544,Limpieza dental,320.0,130,viernes,abril,09:00,1,0,no
+545,Limpieza dental,320.0,130,jueves,noviembre,12:00,6,3,si
+546,Corte de uñas,150.0,90,lunes,enero,12:00,6,1,no
+547,Corte de pelo,100.0,50,viernes,marzo,10:00,8,0,si
+548,Baño,250.0,120,martes,noviembre,10:00,8,4,si
+549,Corte de pelo,100.0,50,viernes,junio,10:00,2,2,si
+550,Baño,250.0,120,martes,mayo,15:00,3,2,no
+551,Baño,250.0,120,miercoles,marzo,15:00,9,3,no
+552,Tratamiento de sarna,400.0,180,lunes,agosto,11:00,8,1,si
+553,Corte de uñas,150.0,90,miercoles,noviembre,13:00,9,1,no
+554,Corte de uñas,150.0,90,jueves,abril,10:00,2,0,si
+555,Limpieza dental,320.0,130,miercoles,agosto,12:00,4,1,si
+556,Corte de pelo,100.0,50,miercoles,abril,13:00,3,3,no
+557,Limpieza dental,320.0,130,viernes,febrero,15:00,9,0,no
+558,Corte de uñas,150.0,90,martes,mayo,16:00,8,4,si
+559,Limpieza dental,320.0,130,lunes,junio,10:00,2,2,si
+560,Corte de uñas,150.0,90,miercoles,abril,09:00,7,4,no
+561,Corte de uñas,150.0,90,miercoles,marzo,16:00,1,0,no
+562,Baño,250.0,120,martes,diciembre,16:00,9,3,si
+563,Limpieza dental,320.0,130,jueves,febrero,14:00,5,0,si
+564,Baño,250.0,120,jueves,diciembre,10:00,7,2,no
+565,Limpieza dental,320.0,130,viernes,noviembre,10:00,7,0,no
+566,Corte de uñas,150.0,90,martes,diciembre,11:00,2,1,no
+567,Corte de uñas,150.0,90,miercoles,abril,11:00,4,4,si
+568,Tratamiento de sarna,400.0,180,jueves,mayo,10:00,1,0,si
+569,Baño,250.0,120,jueves,mayo,16:00,8,2,si
+570,Corte de pelo,100.0,50,lunes,julio,11:00,2,1,no
+571,Limpieza dental,320.0,130,lunes,octubre,16:00,8,3,si
+572,Corte de pelo,100.0,50,viernes,octubre,09:00,2,0,no
+573,Tratamiento de sarna,400.0,180,jueves,abril,13:00,6,4,no
+574,Corte de uñas,150.0,90,jueves,agosto,13:00,6,1,no
+575,Baño,250.0,120,martes,mayo,11:00,7,0,no
+576,Corte de pelo,100.0,50,lunes,diciembre,10:00,8,1,si
+577,Baño,250.0,120,lunes,enero,09:00,8,1,si
+578,Corte de uñas,150.0,90,jueves,noviembre,09:00,9,1,si
+579,Baño,250.0,120,viernes,enero,12:00,5,2,si
+580,Baño,250.0,120,jueves,enero,11:00,6,0,no
+581,Limpieza dental,320.0,130,miercoles,enero,15:00,9,1,no
+582,Corte de pelo,100.0,50,lunes,mayo,12:00,7,0,si
+583,Tratamiento de sarna,400.0,180,lunes,diciembre,11:00,9,1,si
+584,Baño,250.0,120,martes,junio,12:00,6,4,si
+585,Baño,250.0,120,viernes,junio,14:00,9,0,si
+586,Tratamiento de sarna,400.0,180,martes,octubre,16:00,9,0,si
+587,Corte de pelo,100.0,50,lunes,marzo,10:00,5,4,no
+588,Corte de uñas,150.0,90,viernes,noviembre,11:00,6,0,no
+589,Limpieza dental,320.0,130,jueves,enero,13:00,3,1,no
+590,Tratamiento de sarna,400.0,180,jueves,agosto,11:00,2,2,no
+591,Baño,250.0,120,viernes,febrero,13:00,2,0,si
+592,Corte de uñas,150.0,90,miercoles,diciembre,15:00,8,4,si
+593,Limpieza dental,320.0,130,jueves,octubre,12:00,8,2,si
+594,Tratamiento de sarna,400.0,180,martes,octubre,12:00,1,0,no
+595,Baño,250.0,120,jueves,noviembre,10:00,7,1,si
+596,Corte de pelo,100.0,50,jueves,enero,16:00,4,3,si
+597,Tratamiento de sarna,400.0,180,miercoles,agosto,13:00,3,3,no
+598,Baño,250.0,120,jueves,julio,16:00,2,2,no
+599,Corte de uñas,150.0,90,martes,agosto,10:00,2,2,si
+600,Tratamiento de sarna,400.0,180,martes,noviembre,09:00,1,0,no
+601,Limpieza dental,320.0,130,martes,octubre,13:00,8,3,no
+602,Corte de pelo,100.0,50,lunes,enero,11:00,8,3,si
+603,Tratamiento de sarna,400.0,180,jueves,diciembre,13:00,1,0,si
+604,Tratamiento de sarna,400.0,180,jueves,diciembre,12:00,4,0,no
+605,Corte de pelo,100.0,50,viernes,octubre,15:00,7,4,no
+606,Corte de uñas,150.0,90,miercoles,mayo,14:00,5,0,si
+607,Limpieza dental,320.0,130,lunes,septiembre,15:00,9,3,no
+608,Baño,250.0,120,jueves,junio,14:00,2,0,si
+609,Corte de uñas,150.0,90,martes,marzo,10:00,5,1,no
+610,Baño,250.0,120,lunes,diciembre,15:00,6,3,si
+611,Limpieza dental,320.0,130,lunes,diciembre,09:00,5,2,si
+612,Corte de uñas,150.0,90,martes,diciembre,16:00,3,3,no
+613,Tratamiento de sarna,400.0,180,viernes,junio,10:00,7,3,si
+614,Corte de uñas,150.0,90,jueves,mayo,09:00,4,0,si
+615,Baño,250.0,120,miercoles,febrero,14:00,3,3,si
+616,Tratamiento de sarna,400.0,180,viernes,enero,12:00,3,3,no
+617,Corte de pelo,100.0,50,miercoles,marzo,14:00,4,2,si
+618,Corte de uñas,150.0,90,miercoles,junio,14:00,1,1,no
+619,Corte de uñas,150.0,90,jueves,mayo,15:00,1,1,si
+620,Tratamiento de sarna,400.0,180,lunes,marzo,15:00,7,0,no
+621,Corte de uñas,150.0,90,martes,agosto,10:00,5,1,si
+622,Tratamiento de sarna,400.0,180,miercoles,abril,16:00,4,4,no
+623,Corte de pelo,100.0,50,viernes,junio,11:00,1,0,no
+624,Corte de uñas,150.0,90,jueves,noviembre,11:00,1,1,si
+625,Baño,250.0,120,jueves,julio,10:00,9,0,si
+626,Corte de uñas,150.0,90,viernes,mayo,14:00,9,4,no
+627,Tratamiento de sarna,400.0,180,miercoles,octubre,16:00,3,3,no
+628,Tratamiento de sarna,400.0,180,miercoles,septiembre,15:00,5,3,no
+629,Baño,250.0,120,miercoles,enero,15:00,5,1,no
+630,Baño,250.0,120,viernes,noviembre,14:00,9,1,no
+631,Tratamiento de sarna,400.0,180,miercoles,noviembre,15:00,6,2,si
+632,Tratamiento de sarna,400.0,180,viernes,diciembre,10:00,9,1,no
+633,Corte de uñas,150.0,90,jueves,enero,09:00,3,0,si
+634,Tratamiento de sarna,400.0,180,viernes,marzo,10:00,7,0,si
+635,Baño,250.0,120,martes,julio,14:00,7,4,si
+636,Corte de uñas,150.0,90,lunes,febrero,14:00,1,0,no
+637,Tratamiento de sarna,400.0,180,lunes,junio,09:00,2,2,no
+638,Corte de pelo,100.0,50,martes,octubre,10:00,6,4,no
+639,Baño,250.0,120,viernes,junio,14:00,4,4,no
+640,Corte de pelo,100.0,50,lunes,marzo,10:00,4,4,no
+641,Corte de uñas,150.0,90,martes,abril,13:00,5,1,si
+642,Baño,250.0,120,miercoles,diciembre,09:00,2,0,no
+643,Corte de uñas,150.0,90,martes,abril,12:00,3,1,no
+644,Limpieza dental,320.0,130,lunes,abril,11:00,5,3,si
+645,Baño,250.0,120,viernes,septiembre,09:00,9,4,no
+646,Corte de uñas,150.0,90,viernes,junio,10:00,2,2,no
+647,Corte de pelo,100.0,50,viernes,diciembre,14:00,4,1,no
+648,Corte de uñas,150.0,90,lunes,octubre,16:00,1,0,si
+649,Tratamiento de sarna,400.0,180,miercoles,junio,11:00,8,4,si
+650,Tratamiento de sarna,400.0,180,viernes,febrero,16:00,9,3,no
+651,Corte de pelo,100.0,50,jueves,septiembre,15:00,3,3,no
+652,Corte de uñas,150.0,90,miercoles,noviembre,10:00,2,2,no
+653,Baño,250.0,120,martes,agosto,12:00,7,2,no
+654,Corte de pelo,100.0,50,jueves,agosto,15:00,9,4,si
+655,Corte de uñas,150.0,90,miercoles,febrero,09:00,3,3,no
+656,Limpieza dental,320.0,130,lunes,octubre,16:00,9,1,si
+657,Tratamiento de sarna,400.0,180,jueves,enero,14:00,2,1,si
+658,Corte de pelo,100.0,50,miercoles,octubre,16:00,8,3,si
+659,Corte de uñas,150.0,90,miercoles,mayo,14:00,5,1,si
+660,Limpieza dental,320.0,130,miercoles,julio,09:00,5,1,si
+661,Tratamiento de sarna,400.0,180,miercoles,enero,10:00,3,2,no
+662,Limpieza dental,320.0,130,viernes,diciembre,10:00,5,3,si
+663,Corte de pelo,100.0,50,jueves,abril,09:00,8,0,si
+664,Corte de uñas,150.0,90,miercoles,abril,15:00,4,2,si
+665,Limpieza dental,320.0,130,martes,mayo,10:00,5,3,no
+666,Limpieza dental,320.0,130,miercoles,noviembre,09:00,8,1,no
+667,Limpieza dental,320.0,130,viernes,febrero,13:00,1,1,si
+668,Baño,250.0,120,jueves,noviembre,15:00,5,0,si
+669,Limpieza dental,320.0,130,jueves,enero,12:00,5,1,si
+670,Corte de uñas,150.0,90,miercoles,mayo,16:00,9,0,si
+671,Corte de uñas,150.0,90,miercoles,julio,16:00,8,1,no
+672,Corte de uñas,150.0,90,martes,septiembre,15:00,9,4,no
+673,Tratamiento de sarna,400.0,180,jueves,marzo,14:00,6,4,si
+674,Limpieza dental,320.0,130,jueves,febrero,09:00,7,1,no
+675,Corte de pelo,100.0,50,jueves,marzo,14:00,3,0,si
+676,Tratamiento de sarna,400.0,180,lunes,febrero,12:00,9,0,si
+677,Baño,250.0,120,jueves,enero,12:00,9,2,si
+678,Corte de uñas,150.0,90,jueves,febrero,13:00,9,4,no
+679,Baño,250.0,120,martes,julio,09:00,1,1,no
+680,Tratamiento de sarna,400.0,180,martes,mayo,10:00,1,0,si
+681,Baño,250.0,120,viernes,mayo,10:00,2,1,no
+682,Tratamiento de sarna,400.0,180,martes,diciembre,16:00,1,1,no
+683,Baño,250.0,120,jueves,junio,09:00,6,3,no
+684,Corte de uñas,150.0,90,jueves,octubre,09:00,9,1,no
+685,Limpieza dental,320.0,130,jueves,abril,12:00,4,0,si
+686,Corte de uñas,150.0,90,martes,julio,16:00,1,1,no
+687,Corte de uñas,150.0,90,miercoles,noviembre,12:00,5,0,si
+688,Corte de uñas,150.0,90,lunes,enero,16:00,3,0,si
+689,Limpieza dental,320.0,130,viernes,marzo,14:00,2,2,si
+690,Corte de uñas,150.0,90,miercoles,enero,11:00,9,0,si
+691,Tratamiento de sarna,400.0,180,lunes,agosto,12:00,5,0,si
+692,Baño,250.0,120,martes,agosto,09:00,2,0,no
+693,Limpieza dental,320.0,130,viernes,febrero,11:00,7,3,si
+694,Corte de pelo,100.0,50,viernes,mayo,12:00,2,2,si
+695,Tratamiento de sarna,400.0,180,martes,octubre,10:00,3,0,si
+696,Limpieza dental,320.0,130,miercoles,septiembre,12:00,4,0,no
+697,Baño,250.0,120,lunes,diciembre,12:00,1,1,si
+698,Limpieza dental,320.0,130,jueves,enero,12:00,5,4,si
+699,Tratamiento de sarna,400.0,180,jueves,abril,15:00,6,4,no
+700,Tratamiento de sarna,400.0,180,lunes,noviembre,15:00,4,4,si
+701,Corte de pelo,100.0,50,jueves,mayo,12:00,9,4,si
+702,Corte de uñas,150.0,90,miercoles,noviembre,13:00,8,4,si
+703,Baño,250.0,120,martes,julio,09:00,9,1,no
+704,Tratamiento de sarna,400.0,180,jueves,febrero,16:00,9,3,no
+705,Tratamiento de sarna,400.0,180,martes,abril,11:00,3,3,si
+706,Baño,250.0,120,jueves,abril,09:00,6,1,si
+707,Tratamiento de sarna,400.0,180,jueves,marzo,15:00,4,1,no
+708,Corte de pelo,100.0,50,viernes,mayo,15:00,8,0,no
+709,Corte de pelo,100.0,50,jueves,mayo,16:00,7,4,si
+710,Corte de uñas,150.0,90,viernes,noviembre,16:00,4,1,si
+711,Limpieza dental,320.0,130,lunes,mayo,16:00,6,1,no
+712,Baño,250.0,120,jueves,octubre,12:00,6,1,si
+713,Corte de pelo,100.0,50,jueves,junio,10:00,5,1,no
+714,Corte de pelo,100.0,50,jueves,septiembre,11:00,4,2,no
+715,Corte de pelo,100.0,50,viernes,abril,14:00,3,1,no
+716,Corte de pelo,100.0,50,jueves,julio,09:00,2,2,si
+717,Corte de uñas,150.0,90,miercoles,junio,15:00,7,3,no
+718,Tratamiento de sarna,400.0,180,lunes,abril,14:00,1,1,si
+719,Corte de pelo,100.0,50,martes,abril,10:00,1,1,si
+720,Corte de uñas,150.0,90,martes,agosto,16:00,7,4,no
+721,Limpieza dental,320.0,130,viernes,enero,12:00,4,1,no
+722,Tratamiento de sarna,400.0,180,lunes,octubre,10:00,9,4,no
+723,Limpieza dental,320.0,130,lunes,agosto,15:00,4,4,no
+724,Tratamiento de sarna,400.0,180,martes,noviembre,09:00,4,3,si
+725,Tratamiento de sarna,400.0,180,viernes,mayo,11:00,8,4,no
+726,Tratamiento de sarna,400.0,180,miercoles,enero,16:00,5,0,no
+727,Corte de uñas,150.0,90,lunes,diciembre,09:00,9,1,si
+728,Baño,250.0,120,martes,noviembre,10:00,7,1,si
+729,Limpieza dental,320.0,130,miercoles,diciembre,15:00,7,1,no
+730,Tratamiento de sarna,400.0,180,miercoles,junio,10:00,8,0,no
+731,Tratamiento de sarna,400.0,180,miercoles,noviembre,09:00,3,2,no
+732,Corte de pelo,100.0,50,jueves,abril,14:00,6,2,no
+733,Corte de pelo,100.0,50,miercoles,diciembre,14:00,5,3,no
+734,Corte de uñas,150.0,90,miercoles,julio,09:00,1,1,si
+735,Tratamiento de sarna,400.0,180,martes,agosto,09:00,6,0,no
+736,Limpieza dental,320.0,130,viernes,enero,10:00,7,3,si
+737,Limpieza dental,320.0,130,jueves,abril,13:00,7,1,no
+738,Corte de pelo,100.0,50,martes,marzo,15:00,9,4,si
+739,Corte de pelo,100.0,50,martes,enero,15:00,6,1,no
+740,Baño,250.0,120,miercoles,agosto,09:00,3,3,si
+741,Tratamiento de sarna,400.0,180,jueves,enero,12:00,4,4,no
+742,Tratamiento de sarna,400.0,180,viernes,agosto,15:00,8,1,no
+743,Corte de pelo,100.0,50,viernes,marzo,10:00,4,0,no
+744,Corte de pelo,100.0,50,martes,enero,13:00,6,1,si
+745,Corte de pelo,100.0,50,jueves,marzo,16:00,2,0,no
+746,Baño,250.0,120,martes,julio,11:00,2,2,no
+747,Baño,250.0,120,martes,enero,13:00,1,1,si
+748,Baño,250.0,120,viernes,septiembre,16:00,5,1,no
+749,Tratamiento de sarna,400.0,180,viernes,abril,11:00,4,0,si
+750,Baño,250.0,120,martes,noviembre,13:00,4,1,no
+751,Tratamiento de sarna,400.0,180,viernes,abril,16:00,5,0,si
+752,Corte de pelo,100.0,50,viernes,julio,10:00,4,0,no
+753,Tratamiento de sarna,400.0,180,miercoles,julio,16:00,6,1,si
+754,Limpieza dental,320.0,130,miercoles,julio,12:00,9,0,no
+755,Corte de uñas,150.0,90,lunes,mayo,10:00,2,0,no
+756,Corte de pelo,100.0,50,lunes,noviembre,16:00,4,3,no
+757,Limpieza dental,320.0,130,martes,marzo,13:00,1,1,si
+758,Corte de uñas,150.0,90,martes,junio,15:00,7,4,no
+759,Limpieza dental,320.0,130,martes,mayo,15:00,5,0,no
+760,Corte de uñas,150.0,90,martes,noviembre,13:00,8,4,si
+761,Corte de uñas,150.0,90,viernes,marzo,15:00,7,2,no
+762,Baño,250.0,120,lunes,enero,11:00,6,0,no
+763,Limpieza dental,320.0,130,martes,octubre,09:00,7,2,no
+764,Limpieza dental,320.0,130,miercoles,diciembre,16:00,1,1,si
+765,Corte de pelo,100.0,50,viernes,febrero,15:00,8,2,si
+766,Tratamiento de sarna,400.0,180,lunes,noviembre,10:00,8,2,si
+767,Limpieza dental,320.0,130,viernes,junio,11:00,2,1,no
+768,Limpieza dental,320.0,130,jueves,octubre,16:00,1,0,no
+769,Corte de pelo,100.0,50,martes,junio,13:00,3,0,no
+770,Corte de pelo,100.0,50,miercoles,septiembre,13:00,7,4,no
+771,Baño,250.0,120,lunes,mayo,09:00,7,2,si
+772,Tratamiento de sarna,400.0,180,viernes,octubre,10:00,8,3,si
+773,Tratamiento de sarna,400.0,180,lunes,enero,15:00,5,3,si
+774,Baño,250.0,120,jueves,julio,13:00,4,2,no
+775,Corte de pelo,100.0,50,miercoles,febrero,12:00,4,1,si
+776,Corte de pelo,100.0,50,viernes,febrero,09:00,6,2,no
+777,Corte de pelo,100.0,50,jueves,abril,09:00,2,2,si
+778,Limpieza dental,320.0,130,miercoles,enero,11:00,1,1,no
+779,Tratamiento de sarna,400.0,180,martes,abril,11:00,2,2,si
+780,Tratamiento de sarna,400.0,180,lunes,febrero,11:00,3,3,no
+781,Corte de uñas,150.0,90,jueves,abril,16:00,6,3,no
+782,Corte de uñas,150.0,90,lunes,diciembre,15:00,5,3,no
+783,Limpieza dental,320.0,130,lunes,febrero,15:00,3,1,si
+784,Limpieza dental,320.0,130,jueves,mayo,15:00,7,2,si
+785,Tratamiento de sarna,400.0,180,jueves,agosto,13:00,5,3,no
+786,Corte de uñas,150.0,90,viernes,noviembre,16:00,2,2,no
+787,Baño,250.0,120,miercoles,julio,14:00,1,0,no
+788,Corte de pelo,100.0,50,martes,mayo,16:00,8,1,si
+789,Tratamiento de sarna,400.0,180,miercoles,junio,09:00,9,3,si
+790,Baño,250.0,120,martes,julio,10:00,3,3,no
+791,Limpieza dental,320.0,130,martes,enero,12:00,9,1,no
+792,Corte de pelo,100.0,50,viernes,mayo,13:00,6,2,si
+793,Limpieza dental,320.0,130,miercoles,octubre,13:00,4,1,si
+794,Corte de uñas,150.0,90,jueves,abril,10:00,3,0,no
+795,Baño,250.0,120,lunes,agosto,13:00,3,1,no
+796,Corte de pelo,100.0,50,viernes,enero,10:00,7,3,si
+797,Corte de pelo,100.0,50,viernes,enero,16:00,9,0,no
+798,Limpieza dental,320.0,130,viernes,septiembre,14:00,2,2,si
+799,Tratamiento de sarna,400.0,180,jueves,abril,10:00,5,0,no
+800,Baño,250.0,120,lunes,julio,09:00,2,2,no
+801,Corte de pelo,100.0,50,martes,junio,15:00,4,1,si
+802,Corte de pelo,100.0,50,jueves,agosto,13:00,8,2,si
+803,Corte de uñas,150.0,90,miercoles,abril,13:00,4,3,no
+804,Baño,250.0,120,miercoles,marzo,12:00,1,1,si
+805,Baño,250.0,120,jueves,septiembre,10:00,8,1,si
+806,Corte de pelo,100.0,50,viernes,febrero,12:00,4,3,si
+807,Baño,250.0,120,jueves,abril,16:00,1,1,no
+808,Baño,250.0,120,lunes,septiembre,14:00,9,1,si
+809,Corte de pelo,100.0,50,martes,diciembre,12:00,4,3,no
+810,Corte de pelo,100.0,50,martes,abril,15:00,8,2,no
+811,Limpieza dental,320.0,130,martes,diciembre,14:00,5,1,no
+812,Limpieza dental,320.0,130,martes,junio,12:00,2,2,no
+813,Limpieza dental,320.0,130,viernes,febrero,11:00,7,4,si
+814,Limpieza dental,320.0,130,miercoles,marzo,09:00,5,2,si
+815,Baño,250.0,120,miercoles,noviembre,10:00,4,4,no
+816,Corte de uñas,150.0,90,jueves,diciembre,13:00,7,2,si
+817,Corte de pelo,100.0,50,martes,diciembre,16:00,7,3,si
+818,Corte de pelo,100.0,50,miercoles,julio,11:00,5,1,no
+819,Tratamiento de sarna,400.0,180,lunes,abril,11:00,3,3,si
+820,Corte de uñas,150.0,90,jueves,marzo,11:00,8,4,si
+821,Corte de uñas,150.0,90,viernes,junio,13:00,4,0,si
+822,Corte de pelo,100.0,50,miercoles,abril,11:00,2,2,si
+823,Corte de uñas,150.0,90,martes,junio,11:00,1,1,si
+824,Tratamiento de sarna,400.0,180,viernes,diciembre,13:00,7,4,si
+825,Baño,250.0,120,lunes,febrero,09:00,2,2,si
+826,Limpieza dental,320.0,130,lunes,octubre,15:00,6,4,no
+827,Tratamiento de sarna,400.0,180,lunes,noviembre,16:00,5,2,si
+828,Limpieza dental,320.0,130,viernes,febrero,16:00,7,2,si
+829,Corte de pelo,100.0,50,miercoles,noviembre,14:00,4,2,si
+830,Baño,250.0,120,miercoles,junio,11:00,2,1,si
+831,Tratamiento de sarna,400.0,180,martes,octubre,10:00,8,3,si
+832,Corte de uñas,150.0,90,viernes,noviembre,09:00,8,1,si
+833,Baño,250.0,120,miercoles,septiembre,13:00,9,2,no
+834,Tratamiento de sarna,400.0,180,jueves,octubre,09:00,1,0,si
+835,Baño,250.0,120,martes,abril,09:00,1,1,no
+836,Corte de pelo,100.0,50,miercoles,marzo,12:00,3,3,si
+837,Corte de uñas,150.0,90,jueves,marzo,13:00,7,4,si
+838,Limpieza dental,320.0,130,martes,mayo,09:00,2,1,no
+839,Limpieza dental,320.0,130,lunes,agosto,16:00,6,0,si
+840,Limpieza dental,320.0,130,lunes,septiembre,13:00,2,1,si
+841,Tratamiento de sarna,400.0,180,jueves,septiembre,14:00,8,1,si
+842,Baño,250.0,120,lunes,junio,11:00,4,2,si
+843,Corte de uñas,150.0,90,jueves,junio,15:00,4,3,no
+844,Corte de uñas,150.0,90,martes,abril,13:00,3,1,no
+845,Tratamiento de sarna,400.0,180,miercoles,noviembre,09:00,5,0,si
+846,Corte de uñas,150.0,90,martes,agosto,13:00,6,3,no
+847,Corte de uñas,150.0,90,jueves,julio,12:00,5,3,no
+848,Baño,250.0,120,viernes,enero,15:00,7,1,si
+849,Baño,250.0,120,viernes,septiembre,14:00,9,1,no
+850,Baño,250.0,120,jueves,junio,16:00,1,0,si
+851,Tratamiento de sarna,400.0,180,lunes,diciembre,12:00,7,0,si
+852,Tratamiento de sarna,400.0,180,jueves,junio,12:00,8,3,no
+853,Tratamiento de sarna,400.0,180,miercoles,abril,14:00,7,4,si
+854,Corte de uñas,150.0,90,martes,septiembre,14:00,6,3,si
+855,Limpieza dental,320.0,130,jueves,octubre,15:00,5,4,no
+856,Corte de uñas,150.0,90,miercoles,octubre,14:00,8,0,si
+857,Baño,250.0,120,viernes,agosto,13:00,4,2,si
+858,Limpieza dental,320.0,130,jueves,mayo,09:00,7,1,no
+859,Corte de pelo,100.0,50,lunes,agosto,11:00,4,1,no
+860,Limpieza dental,320.0,130,jueves,febrero,10:00,8,1,si
+861,Baño,250.0,120,viernes,abril,11:00,9,4,no
+862,Baño,250.0,120,miercoles,junio,15:00,5,4,no
+863,Baño,250.0,120,jueves,noviembre,14:00,9,3,no
+864,Baño,250.0,120,jueves,diciembre,12:00,3,0,si
+865,Corte de pelo,100.0,50,lunes,septiembre,14:00,7,2,si
+866,Limpieza dental,320.0,130,jueves,octubre,09:00,7,4,no
+867,Corte de pelo,100.0,50,martes,junio,14:00,6,3,no
+868,Corte de uñas,150.0,90,jueves,septiembre,16:00,8,3,si
+869,Limpieza dental,320.0,130,miercoles,agosto,14:00,9,0,no
+870,Corte de uñas,150.0,90,martes,abril,13:00,3,3,si
+871,Corte de uñas,150.0,90,lunes,junio,13:00,3,2,no
+872,Corte de uñas,150.0,90,miercoles,octubre,16:00,1,0,si
+873,Baño,250.0,120,lunes,julio,16:00,9,1,no
+874,Limpieza dental,320.0,130,jueves,noviembre,09:00,2,2,si
+875,Tratamiento de sarna,400.0,180,jueves,junio,09:00,8,1,si
+876,Limpieza dental,320.0,130,jueves,diciembre,14:00,6,2,si
+877,Baño,250.0,120,viernes,abril,15:00,8,1,no
+878,Limpieza dental,320.0,130,viernes,marzo,15:00,6,3,no
+879,Baño,250.0,120,viernes,abril,12:00,7,4,no
+880,Limpieza dental,320.0,130,martes,octubre,12:00,3,3,no
+881,Limpieza dental,320.0,130,viernes,febrero,15:00,8,2,no
+882,Corte de uñas,150.0,90,jueves,diciembre,09:00,8,1,si
+883,Corte de pelo,100.0,50,jueves,julio,12:00,5,2,si
+884,Limpieza dental,320.0,130,lunes,octubre,14:00,4,3,no
+885,Tratamiento de sarna,400.0,180,miercoles,abril,15:00,4,4,si
+886,Corte de pelo,100.0,50,miercoles,agosto,10:00,6,1,no
+887,Tratamiento de sarna,400.0,180,martes,agosto,14:00,6,1,no
+888,Limpieza dental,320.0,130,miercoles,junio,13:00,7,3,si
+889,Baño,250.0,120,martes,diciembre,12:00,2,2,si
+890,Limpieza dental,320.0,130,lunes,marzo,12:00,3,1,si
+891,Corte de uñas,150.0,90,jueves,febrero,12:00,1,1,no
+892,Baño,250.0,120,jueves,noviembre,09:00,3,0,no
+893,Tratamiento de sarna,400.0,180,martes,agosto,14:00,6,2,no
+894,Limpieza dental,320.0,130,viernes,junio,14:00,3,3,no
+895,Limpieza dental,320.0,130,lunes,enero,10:00,1,1,no
+896,Baño,250.0,120,jueves,abril,14:00,4,0,si
+897,Limpieza dental,320.0,130,jueves,agosto,16:00,9,1,no
+898,Corte de pelo,100.0,50,lunes,febrero,12:00,4,0,no
+899,Tratamiento de sarna,400.0,180,martes,enero,10:00,2,0,no
+900,Limpieza dental,320.0,130,viernes,septiembre,10:00,1,1,si
+901,Limpieza dental,320.0,130,martes,febrero,09:00,7,3,si
+902,Baño,250.0,120,lunes,agosto,12:00,5,1,no
+903,Corte de uñas,150.0,90,miercoles,agosto,16:00,7,2,si
+904,Tratamiento de sarna,400.0,180,martes,julio,10:00,5,3,si
+905,Corte de pelo,100.0,50,miercoles,enero,12:00,2,2,no
+906,Corte de pelo,100.0,50,lunes,junio,12:00,4,1,no
+907,Baño,250.0,120,miercoles,junio,14:00,7,1,no
+908,Corte de pelo,100.0,50,jueves,julio,15:00,3,2,si
+909,Corte de uñas,150.0,90,miercoles,diciembre,11:00,9,1,si
+910,Limpieza dental,320.0,130,viernes,junio,15:00,9,0,si
+911,Tratamiento de sarna,400.0,180,viernes,abril,16:00,3,0,si
+912,Limpieza dental,320.0,130,lunes,abril,13:00,4,1,si
+913,Baño,250.0,120,viernes,septiembre,12:00,3,3,si
+914,Limpieza dental,320.0,130,miercoles,abril,14:00,2,1,no
+915,Corte de uñas,150.0,90,jueves,diciembre,09:00,2,1,no
+916,Corte de pelo,100.0,50,lunes,diciembre,14:00,6,2,si
+917,Tratamiento de sarna,400.0,180,martes,octubre,13:00,7,0,no
+918,Corte de uñas,150.0,90,jueves,diciembre,09:00,2,2,no
+919,Baño,250.0,120,martes,abril,09:00,8,0,no
+920,Tratamiento de sarna,400.0,180,lunes,diciembre,09:00,7,4,no
+921,Limpieza dental,320.0,130,martes,diciembre,11:00,3,3,si
+922,Baño,250.0,120,jueves,abril,13:00,3,3,no
+923,Limpieza dental,320.0,130,viernes,julio,09:00,7,4,no
+924,Corte de uñas,150.0,90,lunes,noviembre,14:00,9,1,no
+925,Corte de uñas,150.0,90,viernes,noviembre,14:00,6,0,si
+926,Baño,250.0,120,viernes,mayo,11:00,7,2,si
+927,Corte de pelo,100.0,50,viernes,marzo,13:00,6,3,no
+928,Baño,250.0,120,jueves,junio,14:00,3,2,no
+929,Corte de pelo,100.0,50,miercoles,febrero,09:00,9,1,no
+930,Baño,250.0,120,viernes,septiembre,09:00,6,4,no
+931,Baño,250.0,120,miercoles,octubre,12:00,9,2,no
+932,Tratamiento de sarna,400.0,180,lunes,septiembre,13:00,9,1,no
+933,Corte de pelo,100.0,50,martes,junio,14:00,1,1,si
+934,Corte de pelo,100.0,50,viernes,septiembre,16:00,1,1,no
+935,Corte de uñas,150.0,90,miercoles,abril,16:00,5,0,si
+936,Limpieza dental,320.0,130,lunes,enero,10:00,5,3,no
+937,Corte de uñas,150.0,90,jueves,julio,09:00,6,3,no
+938,Corte de pelo,100.0,50,lunes,abril,09:00,3,1,no
+939,Tratamiento de sarna,400.0,180,jueves,febrero,09:00,8,3,no
+940,Corte de pelo,100.0,50,martes,diciembre,12:00,7,1,si
+941,Limpieza dental,320.0,130,martes,agosto,14:00,2,0,no
+942,Limpieza dental,320.0,130,miercoles,septiembre,12:00,8,4,si
+943,Baño,250.0,120,jueves,abril,12:00,3,3,si
+944,Tratamiento de sarna,400.0,180,jueves,agosto,13:00,1,1,no
+945,Corte de uñas,150.0,90,martes,diciembre,11:00,7,0,si
+946,Tratamiento de sarna,400.0,180,lunes,julio,13:00,8,4,si
+947,Baño,250.0,120,lunes,agosto,11:00,4,4,si
+948,Corte de pelo,100.0,50,miercoles,octubre,10:00,4,2,si
+949,Limpieza dental,320.0,130,martes,julio,16:00,7,0,no
+950,Corte de pelo,100.0,50,martes,octubre,13:00,2,2,si
+951,Corte de pelo,100.0,50,viernes,julio,14:00,2,2,no
+952,Baño,250.0,120,miercoles,agosto,15:00,6,4,no
+953,Corte de uñas,150.0,90,martes,septiembre,16:00,2,1,si
+954,Corte de pelo,100.0,50,viernes,junio,16:00,2,2,si
+955,Limpieza dental,320.0,130,jueves,julio,14:00,4,2,si
+956,Limpieza dental,320.0,130,viernes,abril,14:00,7,1,no
+957,Corte de uñas,150.0,90,martes,agosto,14:00,6,0,si
+958,Corte de uñas,150.0,90,lunes,marzo,09:00,3,0,no
+959,Baño,250.0,120,miercoles,diciembre,16:00,2,0,no
+960,Tratamiento de sarna,400.0,180,jueves,agosto,10:00,4,4,no
+961,Limpieza dental,320.0,130,lunes,septiembre,15:00,3,2,no
+962,Corte de pelo,100.0,50,miercoles,marzo,09:00,2,0,si
+963,Baño,250.0,120,jueves,abril,11:00,1,1,no
+964,Corte de uñas,150.0,90,jueves,febrero,16:00,1,0,no
+965,Corte de pelo,100.0,50,martes,septiembre,12:00,6,3,no
+966,Tratamiento de sarna,400.0,180,viernes,diciembre,11:00,5,1,si
+967,Corte de uñas,150.0,90,lunes,febrero,13:00,4,4,si
+968,Tratamiento de sarna,400.0,180,viernes,enero,14:00,9,1,no
+969,Tratamiento de sarna,400.0,180,martes,noviembre,10:00,3,1,no
+970,Limpieza dental,320.0,130,martes,noviembre,14:00,1,1,no
+971,Limpieza dental,320.0,130,lunes,enero,10:00,5,2,no
+972,Tratamiento de sarna,400.0,180,jueves,junio,10:00,9,1,no
+973,Limpieza dental,320.0,130,miercoles,febrero,15:00,4,3,no
+974,Corte de uñas,150.0,90,jueves,noviembre,11:00,8,2,si
+975,Tratamiento de sarna,400.0,180,viernes,junio,13:00,6,3,si
+976,Tratamiento de sarna,400.0,180,lunes,enero,12:00,2,2,no
+977,Baño,250.0,120,martes,abril,10:00,4,3,no
+978,Baño,250.0,120,jueves,septiembre,12:00,1,1,si
+979,Baño,250.0,120,lunes,enero,10:00,5,1,no
+980,Baño,250.0,120,miercoles,septiembre,10:00,2,2,no
+981,Corte de pelo,100.0,50,martes,octubre,11:00,4,1,no
+982,Baño,250.0,120,jueves,mayo,09:00,5,3,no
+983,Corte de uñas,150.0,90,martes,julio,10:00,9,3,no
+984,Corte de pelo,100.0,50,viernes,diciembre,16:00,9,4,no
+985,Corte de uñas,150.0,90,miercoles,octubre,09:00,6,0,si
+986,Baño,250.0,120,miercoles,enero,11:00,1,1,no
+987,Tratamiento de sarna,400.0,180,miercoles,diciembre,10:00,4,3,no
+988,Corte de pelo,100.0,50,viernes,febrero,15:00,6,0,si
+989,Tratamiento de sarna,400.0,180,jueves,agosto,14:00,9,3,no
+990,Corte de uñas,150.0,90,jueves,marzo,16:00,1,1,si
+991,Corte de uñas,150.0,90,jueves,julio,13:00,6,3,si
+992,Corte de pelo,100.0,50,jueves,abril,16:00,6,2,no
+993,Corte de uñas,150.0,90,jueves,mayo,10:00,9,2,no
+994,Corte de pelo,100.0,50,lunes,mayo,10:00,3,3,no
+995,Corte de uñas,150.0,90,viernes,diciembre,15:00,1,1,si
+996,Tratamiento de sarna,400.0,180,miercoles,diciembre,13:00,8,1,no
+997,Limpieza dental,320.0,130,jueves,junio,16:00,8,0,si
+998,Baño,250.0,120,jueves,enero,13:00,1,1,no
+999,Baño,250.0,120,miercoles,enero,10:00,4,1,no
+1000,Limpieza dental,320.0,130,miercoles,septiembre,12:00,2,1,no
